@@ -20,4 +20,4 @@ map:
   - config:rw
   - media
   - ssl
-  - share
+  - share:rw
