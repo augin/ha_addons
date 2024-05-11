@@ -17,7 +17,7 @@ ingress: true
 ingress_port: 8180
 panel_icon: mdi:camera-wireless
 map: 
-  - config
+  - config:rw
   - media
   - ssl
   - share
