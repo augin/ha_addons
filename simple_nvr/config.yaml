@@ -15,7 +15,9 @@ video: true
 audio: true
 ingress: true
 ingress_port: 8180
-panel_icon: mdi:camera-wireless
+panel_icon: mdi:video
+panel_title: Записи с видеокамер
+panel_admin: false
 map: 
   - config:rw
   - media
