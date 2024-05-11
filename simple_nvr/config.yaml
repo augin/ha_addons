@@ -15,7 +15,7 @@ video: true
 audio: true
 ingress: true
 ingress_port: 8180
-panel_icon: mdi:video
+panel_icon: mdi:file-video
 panel_title: Записи видеокамер
 panel_admin: false
 map: 
