@@ -1,5 +1,5 @@
 name: simple_nvr
-description: простой видеорегистратор
+description: simple NVR
 url: https://github.com/augin/simple_nvr
 image: augin/simple_nvr
 arch: [ amd64, aarch64, i386, armv7 ]
